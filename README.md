@@ -28,4 +28,4 @@ Eu sou o Gabriel ✌️
 <a href="https://www.linkedin.com/in/gabrielfernandes2551/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://contate.me/gabriel-fernandes" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/GabrielFernandes251/GabrielFernandes251/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/GabrielFernandes251/GabrielFernandes251/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
